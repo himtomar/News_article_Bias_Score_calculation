@@ -8,3 +8,4 @@ Three primary benefits of this approach include:
 3. Preservation of Free Speech: If expanded to include social media posts, this labeling technique could deter unwarranted censorship, empowering individuals to discern right from wrong.
 
 I have thoroughly tested and developed a BIAS label system using #NLP techniques via pre trained BERT (RoBERTa Model) and GPT4 Large language model.
+![bias_calculation_method2](https://github.com/himtomar/News_article_Bias_Score_calculation/assets/102384345/0394dddc-2858-42b0-93e6-24685a16b04d)
